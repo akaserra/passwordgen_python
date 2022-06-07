@@ -6,9 +6,9 @@ A password generator in python
 ## SETUP
 
 ```
-git clone https://github.com/akaserra/updater.git
-cd updater
-py updater.py
+git clone https://github.com/akaserra/passwordgen_python.git
+cd passwordgen_python
+py pwgenerator.py
 ```
 ## AUTHOR INFO
 
