@@ -25,7 +25,7 @@ try:
     # the password
     pw = "".join(random.sample(total, length))
 except ValueError:
-    raise SystemExit('Please, put a number <73')
+    raise SystemExit('Please, put a number < 73')
 
 print("Generating a new password...")
 time.sleep(2)
