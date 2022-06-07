@@ -31,7 +31,7 @@ print("Generating a new password...")
 time.sleep(2)
 print(f"{Fore.GREEN}The password has been successfully generated")
 # Write the variable title and the variable pw into the name of the chosen file.
-file = "credentials.txt"  # if the file does not exist it will create one automatically
+file = "credentials.txt"  # if the file does not exist it will create one automatically.
 f = open(file, "a+")  # a+ = append mode
 f.write("\r\n\n" + "Password for: " + title + " \npassword: " + pw)  # content written to the file
 f.close()
