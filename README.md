@@ -1,7 +1,9 @@
-# password generator
-### by akarta
+# Password generator
+### By akarta
 
 A password generator in python
+
+*if you want to report a bug, enter my studios: https://discord.gg/kUvd982grX*
 
 ## SETUP
 
