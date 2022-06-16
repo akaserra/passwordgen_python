@@ -3,7 +3,7 @@
 
 A password generator in python
 
-*if you want to report a bug, enter my studios: https://discord.gg/kUvd982grX*
+*if you want to report a bug, enter on my studios: https://discord.gg/kUvd982grX*
 
 ## SETUP
 
@@ -15,7 +15,7 @@ py pwgenerator.py
 ## AUTHOR INFO
 
 ```
-Hydra Studios' Owner & Python Developer » https://discord.gg/kUvd982grX
+Hydra Studios' Python Developer » https://discord.gg/kUvd982grX
 
 My contact
 discord: akarta#8195
